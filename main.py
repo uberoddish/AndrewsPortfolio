@@ -5,7 +5,6 @@ from forms import ContactForm
 import smtplib
 import os
 
-SECRET_KEY = os.environ['SECRET_KEY']
 EMAIL = os.environ["EMAIL"]
 PASSWORD = os.environ["PASSWORD"]
 
