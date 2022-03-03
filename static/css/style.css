@@ -1,0 +1,104 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+span, h2, h3, h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.navbar {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 0.5rem 1.5rem 0.5rem;
+}
+
+.social-icon {
+    color: #2e2e2e;
+    padding: 1% 7% 0 0%;
+    position: relative;
+}
+
+.social-icon:hover {
+    color: #585858;
+}
+
+.masthead {
+    background: no-repeat center center;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+header.masthead .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;;
+    opacity: 0.5;
+    background-color: #212529;
+    z-index: -2;
+}
+
+.site-heading, .about-container {
+    text-align: center;
+    padding: 410px 0 410px;
+    color: #E9E9E5;
+}
+
+.project-container {
+    padding: 3% 10% 5%;
+    background-color: #AAAAAA;
+}
+
+.project-preview {
+    width: fit-content;
+    text-align: left;
+    color: #2e2e2e;
+    padding-bottom: 5%;
+}
+
+.project-title {
+    text-align: left;
+    line-height: 1.7;
+    padding: 0 0 2%;
+}
+
+.project-info h4 {
+    font-weight: 400;
+}
+
+.project-img {
+    width: 100%;
+    float: left;
+    margin-right: 4%;
+    padding-bottom: 4%;
+}
+
+.description-container {
+    color: #ACACAC;
+    background-color: #252525;
+    padding: 5% 7%;
+    line-height: 2;
+    font-size: x-large;
+}
+
+#contact, .new-post {
+    padding: 5% 10%;
+    color: #2e2e2e;
+    line-height: 3;
+}
+
+.contact-p {
+    padding: 2% 0 0;
+    line-height: 2;
+}
+
