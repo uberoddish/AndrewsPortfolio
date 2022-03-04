@@ -102,3 +102,12 @@ header.masthead .overlay {
     line-height: 2;
 }
 
+.github-link {
+    color: #2e2e2e;
+    text-decoration: none;
+}
+
+.github-link:hover {
+    color: #585858;
+}
+
